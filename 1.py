@@ -1,2 +1,3 @@
-name="媽添"
-print(f"洪傑力是:{name}")
+name="陳冠岑"
+
+print(f"我的名字是:{name}")
